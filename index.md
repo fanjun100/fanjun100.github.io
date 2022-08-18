@@ -2,7 +2,7 @@
 
 ###### 天天猜剧
 
-![logo](https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png)    
+![logo](./logo.png)    
 ![展示图](https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg)
 
 
