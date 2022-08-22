@@ -10,7 +10,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 万能连接锁匙
+###### 万能连接精灵
 
 ![logo](./logo2.png)    
 ![展示图](3.png)
