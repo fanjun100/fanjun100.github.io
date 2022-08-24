@@ -9,15 +9,6 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### ZH燃烧你的大脑
-
-![logo](./logo4.png)    
-![展示图](4.png)
-
-----
-[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
-
-
 
 ###### 王牌视频播放器
 
