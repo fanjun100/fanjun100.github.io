@@ -9,7 +9,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 抠图P图
+###### PS改图宝
 
 ![logo](./logo3.png)    
 ![展示图](3.png)
