@@ -10,7 +10,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 兔克随记
+###### 兔子随记
 
 ![logo](./logo1.png)    
 ![展示图](1.png)
