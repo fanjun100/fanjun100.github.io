@@ -21,6 +21,24 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/2022091916
 </section>
 
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/2022092021453145goi.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/2022092021453145goi.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">乐享充电</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款当下年轻人喜爱的的app，搭配各种超级酷炫好玩儿的充电动画，让你充电时不再枯燥乏味，有了它充电也会变得十分炫彩夺目，与众不同。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="blob:https://dev.vivo.com.cn/f81dca72-564f-4367-a2af-b2b9122b2322"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="blob:https://dev.vivo.com.cn/850145cb-b410-4777-a3c5-391502e26dac"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="blob:https://dev.vivo.com.cn/621a4312-c1b5-4665-ae3b-f9a0cb677cbb"/>
+	</div>
+</section>
 
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
