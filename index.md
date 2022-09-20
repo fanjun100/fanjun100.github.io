@@ -40,5 +40,28 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/2022092021
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/2022092021453145goi.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220920/2022092021453145goi.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">羊羊烧脑</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">彻底解放大脑，来场智力风暴，解锁不同模式关卡。
+跳出思维陷阱，释放脑力的压力，获得终极答案！
+超级烧脑风暴，老少皆宜，创意大开！
+超强脑力达人，一切尽在掌握之中！
+真相只有一个，不要按常理出牌！快试试逆向思维！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220914/202209141809518jdr4.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220914/2022091418095505j7q.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220914/202209141809579pry4.png"/>
+	</div>
+</section>
+
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
