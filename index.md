@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220919/202209191608289le8j.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">球探即时比分</b>
+		<b style="font-size: 16px;color: #333;">球记即时比分</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一个简单但很棒的即时比分记分器。它完全按照球探的想法执行：它跟踪分数。
 提供各种体育运动(篮球，足球，)比赛过程中的记时和记分，同时可以把比赛结果截屏保存到相册，方便分享，也可以保存到历史记录。</p>
 	</div>
