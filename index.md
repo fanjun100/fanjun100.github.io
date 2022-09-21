@@ -78,11 +78,11 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220914/2022091418
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232208631498949941.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211657529l45v.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232208631498934937.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211657563f7p6.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232209631498957530.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211658004zmii.png"/>
 	</div>
 </section>
 
