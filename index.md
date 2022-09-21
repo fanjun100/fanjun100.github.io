@@ -63,5 +63,27 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220914/2022091418
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/capture/icon/20220628/20220628232208631498965053.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/capture/icon/20220628/20220628232208631498965053.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">无线镜像投屏助手</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款简单实用的投屏软件，轻松解决大家投屏的需求，享受大屏观影体验，精彩手机视频内容随心播！
+
+支持图片和视频、画板、音频投屏，把手机上内容快速投递到大屏电视上，享受视觉盛宴和实时互动，丰富交流和视听娱乐方式。
+
+多种投屏方式纵享投屏的乐趣，可以播放你喜爱的照片和视频，快来与朋友或家人一起分享欢乐时光！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232208631498949941.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232208631498934937.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220628/20220628232209631498957530.png"/>
+	</div>
+</section>
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
