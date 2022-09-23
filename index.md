@@ -94,4 +94,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/2022092116
 	</div>
 </section>
 
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220701/2022070115371345uhw.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220701/2022070115371345uhw.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">百战词汇</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">好用的背单词软件，快速掌握词汇量的秘密武器！
+纯正的美式发音和灵活的展现形式，通过耳朵和眼睛的双重强力灌输，让背诵事半功倍。
+多种专项训练模式，让您在不同的模式中反复巩固词汇，让学习变得有趣简单！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220701/202207011542036ev73.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220701/202207011542063yblz.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220701/202207011542091rmn3.png"/>
+	</div>
+</section>
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
