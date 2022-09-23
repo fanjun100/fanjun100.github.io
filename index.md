@@ -115,4 +115,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220701/2022070115
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220701/202207011542091rmn3.png"/>
 	</div>
 </section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220620/202206201559059ug10.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220620/202206201559059ug10.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">一幅画框</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">给您的相片、图片、摄影、绘画等作品加点料，生成一张带相框的作品。
+一幅画框为您提供多款高级的艺术相框，丰富的背景素材，多款不同风格滤镜。重新定义你的作品</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220620/2022062016001997iub.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220620/202206201600219bdlk.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220620/202206201600241biqq.png"/>
+	</div>
+</section>
+
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
