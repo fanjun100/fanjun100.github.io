@@ -4,19 +4,27 @@
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220919/202209191608289le8j.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220919/202209191608289le8j.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220923/202209230951164989z.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220923/202209230951164989z.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">球记即时比分</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一个简单但很棒的即时比分记分器。它完全按照球探的想法执行：它跟踪分数。
-提供各种体育运动(篮球，足球，)比赛过程中的记时和记分，同时可以把比赛结果截屏保存到相册，方便分享，也可以保存到历史记录。</p>
+		<b style="font-size: 16px;color: #333;">多彩视频相册</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">零基础也会使用的视频相册，一键套用，三步轻松制作精美且独特的视频大片。
+功能特色：
+【多样相册模板】
+专业影楼人员开发的多种视频相册模板,让相册呈现丰富多彩的风格
+【精美配乐】
+内置音乐库,可自行下载自己喜欢的视频音乐,搭配视频更有感觉
+【完美的用户体验】
+视频就像一本写满故事的相簿，翻动这个相簿就在查阅生活的过往,让视频更有纪念意义
+【相框加抠图】
+海量相框模版让相册更完美，智能的人物抠图，轻松实现图片人像合成</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/202209191612215bfvr.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/2022091916122456jb5.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220919/202209191612275xz4x.png"/>
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134818606545576855.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134819606545596567.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134820606545559178.png"/>
 	</div>
 </section>
 
