@@ -4,27 +4,20 @@
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220923/202209230951164989z.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220923/202209230951164989z.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220925/2022092510502587h5f.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220925/2022092510502587h5f.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">多彩视频相册</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">零基础也会使用的视频相册，一键套用，三步轻松制作精美且独特的视频大片。
-功能特色：
-【多样相册模板】
-专业影楼人员开发的多种视频相册模板,让相册呈现丰富多彩的风格
-【精美配乐】
-内置音乐库,可自行下载自己喜欢的视频音乐,搭配视频更有感觉
-【完美的用户体验】
-视频就像一本写满故事的相簿，翻动这个相簿就在查阅生活的过往,让视频更有纪念意义
-【相框加抠图】
-海量相框模版让相册更完美，智能的人物抠图，轻松实现图片人像合成</p>
+		<b style="font-size: 16px;color: #333;">夏时网络助手</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款界面简单操作方便且实用网络工具助手。
+支持实时上网流量监控、上网时间把控、一键锁机等有效提高上网的自控力。
+提供IP查询、路由追踪、DNS查询、域名解析等便捷快速查询，解决日常生活的不时之需。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134818606545576855.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134819606545596567.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220419/20220419134820606545559178.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054072i2jf.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054096cev8.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054124wsyk.jpg"/>
 	</div>
 </section>
 
