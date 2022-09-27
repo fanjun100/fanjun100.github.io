@@ -33,11 +33,11 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/2022092510
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209202149460p8pe.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/202209271903026kcdm.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209202149495eikf.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/2022092719030578mek.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220920/202209202149524lmtq.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/202209271903094qyze.png"/>
 	</div>
 </section>
 
