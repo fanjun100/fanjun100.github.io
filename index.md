@@ -21,6 +21,28 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/2022092510
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">Z燃烧你的大脑</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">精选不同模式的经典脑筋急转弯题目，让您通过闯关模式逐个破解，趣味盎然，老少皆宜。
+经常练习，你的智力水平和思维能力都会得到质的飞跃。
+可以锻炼您从不同角度思考问题，认识世界的能力；
+可以帮助您打破固有思维，培养灵活多变的思维能力；</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/202208201639032v58k.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/202208201639078gxqq.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/2022082016391256tul.png"/>
+	</div>
+</section>
+
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
@@ -150,27 +172,6 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20211228/202112281655
 	</div>
 </section>
 
-<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png">下载</a>
-	</div>
-	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">Z燃烧你的大脑</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">精选不同模式的经典脑筋急转弯题目，让您通过闯关模式逐个破解，趣味盎然，老少皆宜。
-经常练习，你的智力水平和思维能力都会得到质的飞跃。
-可以锻炼您从不同角度思考问题，认识世界的能力；
-可以帮助您打破固有思维，培养灵活多变的思维能力；</p>
-	</div>
-	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/202208201639032v58k.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/202208201639078gxqq.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220820/2022082016391256tul.png"/>
-	</div>
-</section>
 
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
