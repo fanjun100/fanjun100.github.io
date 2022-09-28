@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220925/2022092510502587h5f.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">夏时网络助手</b>
+		<b style="font-size: 16px;color: #333;">夏时工具箱</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款界面简单操作方便且实用网络工具助手。
 支持实时上网流量监控、上网时间把控、一键锁机等有效提高上网的自控力。
 提供IP查询、路由追踪、DNS查询、域名解析等便捷快速查询，解决日常生活的不时之需。</p>
