@@ -2,24 +2,6 @@
 
 
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
-<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220925/2022092510502587h5f.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220925/2022092510502587h5f.png">下载</a>
-	</div>
-	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">夏时工具箱</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款界面简单操作方便且实用网络工具助手。
-支持实时上网流量监控、上网时间把控、一键锁机等有效提高上网的自控力。
-提供IP查询、路由追踪、DNS查询、域名解析等便捷快速查询，解决日常生活的不时之需。</p>
-	</div>
-	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054072i2jf.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054096cev8.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/202209251054124wsyk.jpg"/>
-	</div>
-</section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
@@ -27,7 +9,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220925/2022092510
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">Z燃烧你的大脑</b>
+		<b style="font-size: 16px;color: #333;">燃烧你的大脑</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">精选不同模式的经典脑筋急转弯题目，让您通过闯关模式逐个破解，趣味盎然，老少皆宜。
 经常练习，你的智力水平和思维能力都会得到质的飞跃。
 可以锻炼您从不同角度思考问题，认识世界的能力；
@@ -157,8 +139,8 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220620/2022062016
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/capture/icon/20211228/20211228165554566850037053.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">美影预报</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">美影预报是一款专业的影视剧解说与推荐应用，内容丰富，影评精彩。
+		<b style="font-size: 16px;color: #333;">美剧预报</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">美剧预报是一款专业的影视剧解说与推荐应用，内容丰富，影评精彩。
 包含多种影视分类，能快速发现你想要的资源。
 通过经典影视影评赏析，感受电影艺术的魅力，发现电影的精彩。</p>
 	</div>
