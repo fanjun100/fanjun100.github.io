@@ -44,6 +44,26 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220126/202201261605
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221007/2022100715072059kyu.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221007/2022100715072059kyu.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">电子小木鱼</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">助眠音乐，舒缓紧张的心情，也可快速进入梦乡。
+噪音检测，高灵敏音频传感器，随时一键检测环境的噪音分贝。
+硬件检测，随时检测屏幕、蓝牙、麦克风等手机硬件是否正常。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221007/202210071516165ogai.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221007/2022100715162008ygl.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221007/202210071516232ue49.png"/>
+	</div>
+</section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
