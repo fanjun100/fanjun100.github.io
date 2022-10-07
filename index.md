@@ -32,7 +32,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220930/2022093015
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">爱星盘星座</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">新鲜有趣的星座运势测算大全和情感运势专家，全面解析你的每日星座运势，提供丰富的星座配对和心理测试，给你幸福指引，把握十二星座运势前程！不论你是实干的金牛座，细腻的巨蟹座，霸气的狮子座，还是活泼的双子座，星座合盘都能让充满个性又独具慧眼的你一见钟情，轻松打动你的心。
-爱星座的你，怎能不动心？快来看看属于你的星座运势吧！；</p>
+爱星座的你，怎能不动心？快来看看属于你的星座运势吧；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
