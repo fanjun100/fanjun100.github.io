@@ -67,6 +67,26 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221008/2022100815
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210081711263gc0s.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210081711263gc0s.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">一品相机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一品相机一款集拍摄、美图、P图、修图于一身，自带高级感的可甜可盐美图相机APP。 轻松添加各种滤镜或者特效，随意改变你的照片风格，各种照片玩法应有尽有。 强大的图片编辑功能：滤镜，精美边框，趣萌贴纸，文字涂鸦等，让您尽显美美自己。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220616/202206161638541au8a.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220616/2022061616385812829.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220616/2022061616390185llr.png"/>
+	</div>
+</section>
+
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272231471n2cg.png">下载</a>
 	</div>
