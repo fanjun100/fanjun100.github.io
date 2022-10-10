@@ -42,9 +42,9 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220930/2022093015
 		<img style="width: 113px; height: 200px; min-width: 113px"
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221009/2022100918013099wdf.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221009/202210091801341mebs.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221010/202210101453437af0o.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221009/2022100918013736pyn.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221010/202210101453482p92q.png"/>
 	</div>
 </section>
 
