@@ -74,7 +74,7 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220126/202201261605
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210081542503om3r.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">电子木鱼</b>
+		<b style="font-size: 16px;color: #333;">电子木鱼助手</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">助眠音乐，舒缓紧张的心情，也可快速进入梦乡。
 噪音检测，高灵敏音频传感器，随时一键检测环境的噪音分贝。
 硬件检测，随时检测屏幕、蓝牙、麦克风等手机硬件是否正常。</p>
