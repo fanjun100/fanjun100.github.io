@@ -91,6 +91,27 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221008/2022100815
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220818/2022081812270413rwh.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220818/2022081812270413rwh.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">日常记事</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">
+一款非常简单易用的手机日常记录app，在这里可以帮助你记录一些生活中的小秘密和琐碎事项、纪念日、心情日记等，不管是自己所想的还是想对别人说的悄悄话，都可以写在这里，诉说着你无处安放的想法与记录生活中每一件事。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220818/202208181304421nfg3.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220818/202208181304449x1wj.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220818/202208181304482fh20.png"/>
+	</div>
+</section>
+
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210081711263gc0s.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210081711263gc0s.png">下载</a>
 	</div>
