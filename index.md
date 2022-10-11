@@ -115,7 +115,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221008/2022100815
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220818/2022081812270413rwh.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">日常记事</b>
+		<b style="font-size: 16px;color: #333;">note日常记事</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">
 一款非常简单易用的手机日常记录app，在这里可以帮助你记录一些生活中的小秘密和琐碎事项、纪念日、心情日记等，不管是自己所想的还是想对别人说的悄悄话，都可以写在这里，诉说着你无处安放的想法与记录生活中每一件事。</p>
 	</div>
