@@ -74,7 +74,7 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220126/202201261605
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221011/202210111638274q2kp.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">WF万能连接钥匙</b>
+		<b style="font-size: 16px;color: #333;">WF万能连接精灵</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">WF万能连接钥匙，轻松一键连接多种设备 ☆掌上钥匙，方便实用 -＞让手机成为打开控制家电的钥匙，让你可以轻松使用智能手机遥控空调、电视等家用电器，随时随地遥控！ ☆连接投屏，多屏互动 -＞手机WiFi连接投影仪，将手机上的视频、图片和音乐等投射到大屏设备上播放，开启多屏互动，即享大屏视觉体验! ☆连接打印机，随时打印 通过WiFi万能连接打印机，可以将图片、pdf等无线打印，给用户提供便捷的移动端打印体验，让你轻松实现手机打印。 ☆万用工具，便捷实用 设备信息，分贝噪音检测，手电筒、尺子、指南针等，便捷日常生活。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
