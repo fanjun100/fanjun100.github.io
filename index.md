@@ -41,6 +41,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221020/2022102011
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221020/202210202237301s87u.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221020/202210202237301s87u.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">libvio视频</b>
+		<p style="margin: 0; font-size: 14px;color: #999;"> 软件小巧，不占用内存，免费软件，随意用； 多功能视频播放器，无需转码，加载速度快，画质清晰，精彩视频随心播； 支持视频、图片、画图、音频文件投屏到大屏，畅享大屏快感； 提供精彩专业的影剧讲评，感受不一样的影视意境；</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221020/2022102023021860p7q.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221020/202210202302233ptm6.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221020/202210202302381quzn.png"/>
+	</div>
+</section>
+
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
