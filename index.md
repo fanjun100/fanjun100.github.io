@@ -24,12 +24,12 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/2022101811
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221020/20221020110439004en.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221020/20221020110439004en.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221021/202210211115332teac.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221021/202210211115332teac.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">快乐消一消</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">快乐消一消是一款为成语爱好者提供的免费学习工具。 简单丰富，阅读方便，一键收藏。 主要功能： 通过每日一词，消除学习的枯燥，提升成语的积累。 成语词典对成语进行详细释义，包括出处、举例，让你了解的更加透切。 一键收藏，方便你对陌生的成语的复习，帮助你词量的积累。</p>
+		<b style="font-size: 16px;color: #333;">快乐消消成语</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">快乐消消成语是一款为成语爱好者提供的免费学习工具。 简单丰富，阅读方便，一键收藏。 主要功能： 通过每日一词，消除学习的枯燥，提升成语的积累。 成语词典对成语进行详细释义，包括出处、举例，让你了解的更加透切。 一键收藏，方便你对陌生的成语的复习，帮助你词量的积累。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
@@ -47,7 +47,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221020/2022102011
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221020/202210202237301s87u.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">libvio视频</b>
+		<b style="font-size: 16px;color: #333;">追风视频</b>
 		<p style="margin: 0; font-size: 14px;color: #999;"> 软件小巧，不占用内存，免费软件，随意用； 多功能视频播放器，无需转码，加载速度快，画质清晰，精彩视频随心播； 支持视频、图片、画图、音频文件投屏到大屏，畅享大屏快感； 提供精彩专业的影剧讲评，感受不一样的影视意境；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
