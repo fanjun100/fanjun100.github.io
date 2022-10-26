@@ -24,6 +24,26 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/2022101811
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210261758435o01t.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221026/202210261758435o01t.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">网络管理</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">款界面简单操作方便且实用网络管理助手。 提供IP查询、路由追踪、DNS查询、域名解析等便捷快速查询，解决日常生活的不时之需。 支持实时上网流量监控、上网时间把控、一键锁机等有效提高上网的自控力。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/202210261809428quog.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/202210261809455mny2.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/202210261809477y1hq.jpg"/>
+	</div>
+</section>
+
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221021/202210211115332teac.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221021/202210211115332teac.png">下载</a>
 	</div>
