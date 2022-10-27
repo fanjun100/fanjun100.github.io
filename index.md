@@ -41,6 +41,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102618
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271149426gwcy.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271149426gwcy.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">555剧迷</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">片海无涯，有你好看。 众里寻片千百部，小编带你不迷路。 严选全网宝藏奇珍异片，读懂那些年错过的好作品。 意在用图文标注帮助用户体会影视的内在美，发现影视的精彩，感受不一样的影视。 还有精彩美图壁纸哦，快来体验吧。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221027/202210271153558wkcs.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221027/202210271153594ew81.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221027/202210271154023uke1.png"/>
+	</div>
+</section>
+
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
