@@ -47,7 +47,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/2022102911
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221029/202210291718433exkh.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">虫虫游乐园</b>
+		<b style="font-size: 16px;color: #333;">虫虫趣玩</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款多功能的休闲游乐软件，类目众多，界面清新简洁； 男女老少轻松上手，重重闯关等你挑战。 更有猜歇后语、智者争霸、猜谜语、猜剧、笑话大全等不同类型的等你来探索。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
