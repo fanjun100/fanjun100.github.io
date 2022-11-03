@@ -43,8 +43,8 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/2022102911
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031121337gll4.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031121337gll4.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031835133gjcy.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031835133gjcy.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">樱花迷你秀</b>
