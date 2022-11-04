@@ -5,20 +5,20 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">EasyConnect传输助手</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">换机传输数据到新手机，快速搞定，操作简单！ 功能特色 【各类文件 极速传输】 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便。 【安全可靠 保护隐私】 仅限于双机扫码互联，全面保护手机隐私，为换机安全护航。 【wifi传输 零流量】 热点或WiFi网络连接,隔空传送，无需联网、不耗费手机流量。 【速度超快 高效传输】 近距离传输，传输速度快，数据迁移克隆更便捷。 【所有品牌 不限机型】 新旧手机上直接安装即可使用，不受品牌及系统版本影响，解决数据搬家难题。</p>
+		<b style="font-size: 16px;color: #333;">闪传同步换机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">手机克隆互传，克隆换机工具！一键传输数据到新手机，快速搞定，不需要流量！ 一键换机： 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便。 速度快： 通过局域网wifi传输，速度飞快，一键换机数据迁移，互传资源不费任何手机流量。 不限机型： 新旧手机上直接安装即可使用，不受品牌及系统版本影响，解决数据搬家难题。 安全保密： 仅限于双机互联，全面保护手机隐私。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181155557ap7b.png"/>
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133319569539727074.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181155589zbf4.png"/>
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133320569539737988.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181156013qgoc.png"/>
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133321569539732615.png"/>
 	</div>
 </section>
 
@@ -437,6 +437,23 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20211228/202112281655
 	</div>
 </section>
 
-
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">EasyConnect传输助手</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">换机传输数据到新手机，快速搞定，操作简单！ 功能特色 【各类文件 极速传输】 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便。 【安全可靠 保护隐私】 仅限于双机扫码互联，全面保护手机隐私，为换机安全护航。 【wifi传输 零流量】 热点或WiFi网络连接,隔空传送，无需联网、不耗费手机流量。 【速度超快 高效传输】 近距离传输，传输速度快，数据迁移克隆更便捷。 【所有品牌 不限机型】 新旧手机上直接安装即可使用，不受品牌及系统版本影响，解决数据搬家难题。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181155557ap7b.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181155589zbf4.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181156013qgoc.png"/>
+	</div>
+</section>
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">长沙文宸智慧网络科技有限公司 湘ICP备2022014315号</a>
