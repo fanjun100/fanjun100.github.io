@@ -43,20 +43,20 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/2022102911
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031835133gjcy.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221103/202211031835133gjcy.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/202211041628464wpti.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/202211041628464wpti.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">樱花迷你秀</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">樱花迷你秀，专为动漫迷和爱好者倾心打造的精品应用； 每天向你推荐受用户欢迎的动漫壁纸； 多种不同动漫款式供你挑选。 快来设定专属自己的动漫壁纸吧！</p>
+		<b style="font-size: 16px;color: #333;">大米星球</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">专为动漫迷和爱好者倾心打造的精品应用； 每天向你推荐受用户欢迎的动漫壁纸； 多种不同动漫款式供你挑选。 快来设定专属自己的动漫壁纸吧！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221103/202211031122385wlq2.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041655202h5i5.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221103/202211031122503i58f.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041655236fsk5.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221103/2022110311225329g26.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221104/202211041655280dkjk.png"/>
 	</div>
 </section>
 
