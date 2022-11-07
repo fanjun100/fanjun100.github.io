@@ -29,7 +29,7 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/202201051333
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">看韩剧社</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">爱韩剧大全一款看韩剧猜猜大挑战应用app 汇集经典韩剧、韩剧歌曲，热门韩剧影视； 全面考验你的韩剧知识，做一个真正的超级韩剧达人； 简单易上手，不同的闯关模式，富有趣味性和挑战性，更考验你的智力和知识储备； 还在等什么，过来挑战吧！</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款看韩剧猜猜大挑战应用app 汇集经典韩剧、韩剧歌曲，热门韩剧影视； 全面考验你的韩剧知识，做一个真正的超级韩剧达人； 简单易上手，不同的闯关模式，富有趣味性和挑战性，更考验你的智力和知识储备； 还在等什么，过来挑战吧！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
