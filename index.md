@@ -439,6 +439,25 @@ src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20211228/202112281655
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220818/202208181147230c4wv.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220818/202208181147230c4wv.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">卡普视频</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款高效快捷时尚视频播放软件， 支持主流的视频格式，无需任何转码，让您享受更流畅，更优质的视频。 功能特点： 支持多模式快速导入，方便快捷； 支持视频文件加密，让您有属于自己的私密空间； 支持无线一键投屏，畅享大屏舒适体验； 支持简单视频编辑创作，为您制作酷炫的效果；</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/202207052305237y8mq.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/202207052305267im09.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/2022070523052984im2.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221018/202210181154463iw2h.png">下载</a>
 	</div>
