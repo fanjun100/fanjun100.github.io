@@ -22,23 +22,22 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/2022090109
 	</div>
 </section>
 
-
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311937281fifw.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311937281fifw.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/2022111116291187qpl.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/2022111116291187qpl.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">97韩站</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款看韩剧猜猜大挑战应用app 汇集经典韩剧、韩剧歌曲，热门韩剧影视； 全面考验你的韩剧知识，做一个真正的超级韩剧达人； 简单易上手，不同的闯关模式，富有趣味性和挑战性，更考验你的智力和知识储备； 还在等什么，过来挑战吧！</p>
+		<b style="font-size: 16px;color: #333;">泰圈</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">喜欢泰剧的小伙伴们看过来！ 在这里可以从不同的角度去赏识泰剧的精彩！ 深度的影评为你全面解析泰剧！ 每天为你推荐合口味的泰剧电影与专业的影评解读，让你快速走进泰剧的世界！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291130084jyfb.jpg"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/202211111630494qol2.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291130138um7o.jpg"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/202211111630528v5u9.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/20221029113018427iq.jpg"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/202211111630558z2m6.png"/>
 	</div>
 </section>
 
@@ -201,6 +200,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221009/2022100918
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221010/202210101453437af0o.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221010/202210101453482p92q.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311937281fifw.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311937281fifw.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">97韩站</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款看韩剧猜猜大挑战应用app 汇集经典韩剧、韩剧歌曲，热门韩剧影视； 全面考验你的韩剧知识，做一个真正的超级韩剧达人； 简单易上手，不同的闯关模式，富有趣味性和挑战性，更考验你的智力和知识储备； 还在等什么，过来挑战吧！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291130084jyfb.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291130138um7o.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/20221029113018427iq.jpg"/>
 	</div>
 </section>
 
