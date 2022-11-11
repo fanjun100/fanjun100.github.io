@@ -5,22 +5,23 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220901/202209010950256fy9y.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220901/202209010950256fy9y.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">闪传同步换机</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">手机克隆互传，克隆换机工具！一键传输数据到新手机，快速搞定，不需要流量！ 一键换机： 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便。 速度快： 通过局域网wifi传输，速度飞快，一键换机数据迁移，互传资源不费任何手机流量。 不限机型： 新旧手机上直接安装即可使用，不受品牌及系统版本影响，解决数据搬家难题。 安全保密： 仅限于双机互联，全面保护手机隐私。</p>
+		<b style="font-size: 16px;color: #333;">换机克隆精灵</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款文件传输克隆工具, 帮助用户之间快速零流量相互迁移与克隆。 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便； 面对面扫码传输，直接将数据与资料传输到新手机，免去了繁琐的步骤和隐私泄露的烦恼； 新旧手机上直接安装即可使用，不受品牌及系统版本影响，稳定高速； 便捷的文件管理与助手，方便你我的生活；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133319569539727074.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/202209010952082l98x.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133320569539737988.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/202209010952113byz5.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133321569539732615.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/20220901095214785qt.png"/>
 	</div>
 </section>
+
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
@@ -472,6 +473,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/2022101811
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181155589zbf4.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221018/202210181156013qgoc.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/capture/icon/20220105/20220105133319569539749662.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">闪传同步换机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">手机克隆互传，克隆换机工具！一键传输数据到新手机，快速搞定，不需要流量！ 一键换机： 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便。 速度快： 通过局域网wifi传输，速度飞快，一键换机数据迁移，互传资源不费任何手机流量。 不限机型： 新旧手机上直接安装即可使用，不受品牌及系统版本影响，解决数据搬家难题。 安全保密： 仅限于双机互联，全面保护手机隐私。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133319569539727074.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133320569539737988.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/capture/screenshot/20220105/20220105133321569539732615.png"/>
 	</div>
 </section>
 
