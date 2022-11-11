@@ -83,6 +83,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221026/2022102618
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220628/202206281707161ozw0.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220628/202206281707161ozw0.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">蜂鸟视频播放器</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">专属视频播放器，将手机视频图片等投射到电脑或电视的大屏幕上，进行多屏互动投屏，畅享大屏视觉体验! 精彩手机视频随心播！播放画质好，稳定流畅，更好的视觉效果等你来体验，来开启精彩视频时光吧！ 便捷简单的视频编辑小工具，助您用简单的方式体验专业的过程！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220628/202206281650567buot.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220628/202206281650595rvnv.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220628/202206281651023xttq.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271149426gwcy.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221027/202210271149426gwcy.png">下载</a>
 	</div>
