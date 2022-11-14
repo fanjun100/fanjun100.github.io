@@ -9,7 +9,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220901/202209010950256fy9y.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">换机克隆精灵</b>
+		<b style="font-size: 16px;color: #333;">一键换机克隆精灵</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款文件传输克隆工具, 帮助用户之间快速零流量相互迁移与克隆。 无需数据线，通讯录 、图片、 视频等重要数据，一键可从旧手机中迁移到新手机，手机克隆，换机轻松方便； 面对面扫码传输，直接将数据与资料传输到新手机，免去了繁琐的步骤和隐私泄露的烦恼； 新旧手机上直接安装即可使用，不受品牌及系统版本影响，稳定高速； 便捷的文件管理与助手，方便你我的生活；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
