@@ -24,6 +24,27 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/2022090109
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221115/2022111523013365bje.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221115/2022111523013365bje.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">qoo助手</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">qoo助手您的随身好帮手，协助您解决生活中遇到的问题，提升广大用户的生活、学习、工作的效率。
+【网络测速】简单易用且精准测试的测网速工具，为了让人们更快更好的了解自己当前的网速和手机状况。【基本信息】显示手机型号，屏幕分辨率与尺寸，像素密度等【处理器】设计主频、当前主频、类型、性能等【内存存储】内存和存储的使用、空闲等【电池】电池余量、可用时间等</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211152303366h2ou.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/2022111523034012ecp.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/2022111523040911mm0.png"/>
+	</div>
+</section>
+
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/2022111116291187qpl.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/2022111116291187qpl.png">下载</a>
 	</div>
