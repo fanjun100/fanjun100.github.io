@@ -36,9 +36,9 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220901/2022090109
 		<img style="width: 113px; height: 200px; min-width: 113px"
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211152303366h2ou.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/2022111523034012ecp.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" 
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/2022111523040911mm0.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221115/202211152303434dc66.png"/>
 	</div>
 </section>
 
